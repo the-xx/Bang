@@ -11,4 +11,4 @@ Grab the green cube onto the cylinder and wave in to change to green bullet
 Grab the blue cube onto the cylinder and wave out to change to blue bullet
 
 
-Code in Asset\Script
+Code in Assets\Script
